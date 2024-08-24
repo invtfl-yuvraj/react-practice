@@ -31,6 +31,13 @@ function App() {
       date : new Date(2024, 2, 27)
     }, 
 
+    {
+      id : "p5",
+      title : "Ipad",
+      price : "70000",
+      date : new Date(2023, 8, 25)
+    },
+
   ]
 
   return (

@@ -23,6 +23,10 @@ function Products(props) {
                 title={props.items[3].title}
                 amount={props.items[3].amount}
                 date={props.items[3].date} />
+            <ProductItem
+                title={props.items[4].title}
+                amount={props.items[4].amount}
+                date={props.items[4].date} />
 
         </Card>
     );
